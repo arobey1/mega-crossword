@@ -1,3 +1,5 @@
 # mega-crossword
 
-This is my last crossword for __The Swarthmore Phoenix__.
+This is my last crossword for _The Swarthmore Phoenix_.  Of all the puzzles I created for this newspaper, this is by far the largest.  The blank grid is in [blank.grid](blank.grid)
+
+
