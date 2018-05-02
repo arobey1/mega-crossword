@@ -32,6 +32,10 @@ def main():
 
     writeFile(all_words, outfname)
 
+    lengths = [len(w) for w in all_words]
+    avg = sum(lengths) / float(len(lengths))
+    print "Average word length: %.2f" % avg
+
 def readInPuzzle(fname):
     alldata = []
     with open(fname, 'r') as f:
